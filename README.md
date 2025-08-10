@@ -48,8 +48,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd project2
+   https://github.com/Souramoy/lodgedigital_demo_2.git
    ```
 
 2. **Install dependencies**
@@ -142,8 +141,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For inquiries about our premium digital solutions:
 
 - **Website:** [View Live Demo](http://localhost:5173/)
-- **Email:** contact@theperfectwebsite.com
-- **Phone:** +1 (555) 123-4567
+- **Email:** souramoys@gmail.com
+- **Phone:** +91 6294516326
 
 ---
 
