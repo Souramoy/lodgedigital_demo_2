@@ -140,7 +140,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For inquiries about our premium digital solutions:
 
-- **Website:** [View Live Demo]([https://lodgedigital-demo-2.vercel.app/])
+- **Website:** [View Live Demo](https://lodgedigital-demo-2.vercel.app/)
 - **Email:** souramoys@gmail.com
 - **Phone:** +91 6294516326
 
