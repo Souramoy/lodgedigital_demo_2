@@ -1,7 +1,8 @@
 # 🏨 The Perfect Website - Premium Digital Solutions
 
 <div align="center">
-  <img src="./src/assets/banner.png" alt="The Perfect Website Banner" />
+  <img width="1358" height="597" alt="image" src="https://github.com/user-attachments/assets/b24d66ca-f5f9-4977-a4f9-0e16c2138bd3" />
+
 </div>
 
 <div align="center">
